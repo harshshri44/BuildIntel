@@ -6,6 +6,8 @@ It provides a modern **Angular** single-page application, a high-throughput **Sp
 
 ---
 
+> 📖 **Setting up on a new device?** Check out the standalone [SETUP.md](SETUP.md) for quick-start Docker and manual installation steps across Windows, macOS, and Linux.
+
 ## Table of Contents
 
 1. [Project Overview](#1-project-overview)
